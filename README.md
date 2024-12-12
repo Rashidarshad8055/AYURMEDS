@@ -6,4 +6,4 @@ performance.
 • Full-Stack Development: Designed an intuitive front end with HTML and CSS
 to provide a seamless user experience. Utilized SQLite and MySQL databases
 for efficient data storage and management, ensuring accurate and quick
-retrieval of Ayurvedic medicine suggestions
+retrieval of Ayurvedic medicine suggestions.
