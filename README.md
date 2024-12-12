@@ -1,5 +1,5 @@
 • Ayurvedic Medicine Recommendation System: Developed a sophisticated
-system that suggests Ayurvedic medicine names based on classical texts such as
+systems that suggests Ayurvedic medicine names based on classical texts such as
 Charaka Samhita, Sushruta Samhita, and symptom analysis. Implemented the
 backend using Python and the Django framework, ensuring robust and scalable
 performance.
